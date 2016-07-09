@@ -6,11 +6,11 @@ libgabi++_c_includes := \
 libgabi++_common_src_files := \
 	src/array_type_info.cc \
 	src/class_type_info.cc \
-        src/delete.cc \
+	src/delete.cc \
 	src/dynamic_cast.cc \
 	src/enum_type_info.cc \
 	src/function_type_info.cc \
-        src/new.cc \
+	src/new.cc \
 	src/pbase_type_info.cc \
 	src/pointer_type_info.cc \
 	src/pointer_to_member_type_info.cc \
